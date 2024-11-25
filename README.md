@@ -10,7 +10,7 @@ You can contact me by the following channels.
 |----------------|-------------------------------|
 |Facebook|https://www.facebook.com/chakhit1049/|
 |Email|chakhit.kanchana@gmail.com|
-|Discord|lnwcode|
+|Discord|jonathans.dev|
 
 <!---
 chakhit-dev/chakhit-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
